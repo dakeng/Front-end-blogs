@@ -1,18 +1,10 @@
 # 前端相关博文搜集
 
-### JavaScript相关
-
-</hr>
+## JavaScript相关
 
 - 动态数据绑定：https://github.com/youngwind/blog/issues/84
 
-  ​
+## CSS相关
 
-</hr>
 
-### CSS相关
-
-</br>
-
-</hr>
 
