@@ -23,3 +23,4 @@
 ## 其他
 
 - [webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
+- [React.js 小书](http://huziketang.com/books/react/)(墙裂推荐！新手向)
