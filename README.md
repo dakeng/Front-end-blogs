@@ -10,6 +10,8 @@
 
 - [CSS content自定义生成图标](https://www.zhihu.com/question/22022905)
 - [Font Awesome](http://fontawesome.io/)
+- [Rem布局的原理解析](https://juejin.im/entry/59eff43df265da431f4a44bf)
+- [关于移动端开发1px边框的一些理解及解决办法](https://juejin.im/entry/59f052c26fb9a0450c489d79)
 
 ## 模块化相关
 
@@ -20,7 +22,15 @@
 
 - [Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13)
 
+## React
+
+- [React.js 小书](http://huziketang.com/books/react/)(墙裂推荐！新手向)
+- [使用store 来优化 React 组件](https://zhuanlan.zhihu.com/p/30356842?utm_source=wechat_session&utm_medium=social)
+
 ## 其他
 
 - [webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
-- [React.js 小书](http://huziketang.com/books/react/)(墙裂推荐！新手向)
+- [cookie、session、localStorage分别是什么？有什么作用？](https://zhuanlan.zhihu.com/p/22388743?utm_source=wechat_session&utm_medium=social)
+- [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
+
+
