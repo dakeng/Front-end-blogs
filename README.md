@@ -29,6 +29,9 @@
 - [从零开始React服务器渲染](http://www.alloyteam.com/2017/01/react-from-scratch-server-render/)
 - [React Native 高质量学习资料汇总](http://www.jianshu.com/p/454f2e6f28e9)
 
+## Cordova
+- [Cordova教程](http://eteng-wiki.github.io/HAC-WIKI/buildEnv/)（环境终于弄好了红红火火）
+
 ## 其他
 
 - [webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
