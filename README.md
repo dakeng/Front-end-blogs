@@ -28,6 +28,7 @@
 - [使用store 来优化 React 组件](https://zhuanlan.zhihu.com/p/30356842?utm_source=wechat_session&utm_medium=social)
 - [从零开始React服务器渲染](http://www.alloyteam.com/2017/01/react-from-scratch-server-render/)
 - [React Native 高质量学习资料汇总](http://www.jianshu.com/p/454f2e6f28e9)
+- [React组件间的沟通方法](http://www.alloyteam.com/2016/01/some-methods-of-reactjs-communication-between-components/)
 
 ## Cordova
 - [Cordova教程](http://eteng-wiki.github.io/HAC-WIKI/buildEnv/)（环境终于弄好了红红火火）
