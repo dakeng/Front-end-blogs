@@ -18,6 +18,10 @@
 - [搭建开发环境](https://juejin.im/post/59a7ef006fb9a0249a414486)
 - [CommonJS规范](http://javascript.ruanyifeng.com/nodejs/module.html)
 
+## NodeJs
+
+- [Node初学者入门](http://ourjs.com/detail/529ca5950cb6498814000005)
+
 ## Webpack
 
 - [Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13)
