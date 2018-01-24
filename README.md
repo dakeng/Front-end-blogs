@@ -45,4 +45,8 @@
 - [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 - [教程](https://scotch.io/tutorials)
 
+## 案例参考
+
+- [React技术栈+Express+Mongodb实现个人博客](https://www.jianshu.com/p/e8d68f9e29c6)
+-[用React-Native+Mobx做一个迷你水果商城APP](https://juejin.im/post/5a3f06cd6fb9a044fe4693bc)
 
