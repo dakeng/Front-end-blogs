@@ -24,6 +24,7 @@
 - [Node初学者入门](http://ourjs.com/detail/529ca5950cb6498814000005)
 - [使用node/express/mongo创建RESTful API](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 - [express-session](https://www.cnblogs.com/htoooth/p/7340628.html)
+- [Node直出理论与实践总结](https://github.com/joeyguo/blog/issues/8)
 
 ## Webpack
 
