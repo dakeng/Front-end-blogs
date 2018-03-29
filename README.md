@@ -6,6 +6,7 @@
 - [Javascript定义类（class）的三种方法](http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html)
 - [this作用域](https://zhuanlan.zhihu.com/p/23804247)
 - [promise](https://juejin.im/post/5a9600526fb9a06333155141)
+- [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
 
 ## CSS相关
 
