@@ -14,6 +14,7 @@
 - [Font Awesome](http://fontawesome.io/)
 - [Rem布局的原理解析](https://juejin.im/entry/59eff43df265da431f4a44bf)
 - [关于移动端开发1px边框的一些理解及解决办法](https://juejin.im/entry/59f052c26fb9a0450c489d79)
+- [CSS3新特性，兼容性，兼容方法总结](https://www.cnblogs.com/jesse131/p/5441199.html)
 
 ## 模块化相关
 
