@@ -46,6 +46,9 @@
 ## Electron
 - [Electron Tutorial: Building Modern Desktop Apps with Vue.js](https://auth0.com/blog/electron-tutorial-building-modern-desktop-apps-with-vue-js/)
 
+## 配色方案
+- [「红蓝黄白藏蓝」配色方案](https://uiiiuiii.com/photoshop/12123817.html)
+
 ## 其他
 
 - [webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
