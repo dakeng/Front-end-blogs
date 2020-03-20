@@ -43,6 +43,9 @@
 ## Cordova
 - [Cordova教程](http://eteng-wiki.github.io/HAC-WIKI/buildEnv/)（环境终于弄好了红红火火）
 
+## Electron
+- [Electron Tutorial: Building Modern Desktop Apps with Vue.js](https://auth0.com/blog/electron-tutorial-building-modern-desktop-apps-with-vue-js/)
+
 ## 其他
 
 - [webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
